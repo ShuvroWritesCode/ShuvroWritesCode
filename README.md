@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Shuvro 👋
 
 <!--
 **ShuvroWritesCode/ShuvroWritesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuvroWritesCode&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvroWritesCode&layout=compact)](https://github.com/ShuvroWritesCode/github-readme-stats)
