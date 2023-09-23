@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=ShuvroWritesCode&theme=tokyonight"/>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvroWritesCode&langs_count=10"/>
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuvroWritesCode&langs_count=10"/>
